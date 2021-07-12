@@ -1,4 +1,2 @@
-# seam_carving
-
-Computer Vision Final Project <br>
-Implemented seam carving - a method of content-aware cropping
+# e27-seam-carving
+Jordan and Trinh's final project for E27 (Spring 2021)
